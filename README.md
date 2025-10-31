@@ -20,8 +20,8 @@ A Python-based system that implements input and output moderation for AI-generat
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd ai-moderation-task
+   git clone https://github.com/dWanderingSoul/AI-Prompt-Moderation-System-Task
+   cd AI-Prompt-Moderation-System-Task
    ```
 
 2. **Install dependencies**
@@ -49,7 +49,7 @@ A Python-based system that implements input and output moderation for AI-generat
 Run the script from the command line:
 
 ```bash
-python moderation_system.py
+ai_moderation_script.py
 ```
 
 ### Example Interaction
@@ -120,9 +120,8 @@ You can modify this list in the `PromptModerationSystem` class.
 ```
 ai-moderation-system/
 │
-├── moderation_system.py    # Main script
+├── ai_moderation_script.py    # Main script
 ├── requirements.txt         # Python dependencies
-├── .env.example            # Example environment variables
 ├── .env                    # Your API keys (gitignored)
 └── README.md               # This file
 ```
@@ -210,4 +209,6 @@ Created for Stage 0 - AI for Developers Task
 ## Acknowledgments
 
 - OpenAI for providing the API
-- The Python community for excellent libraries# AI-Prompt-Moderation-System-Task
+- The Python community for excellent libraries
+
+> AI-Prompt-Moderation-System-Task
